@@ -1,0 +1,17 @@
+i was very familair with wordle having played daily for a while and even made
+a simple project for it in my first semester where i had a file of all previously used wordles copied from fiveforks.com/wordle
+which i used to help me find an unused starter word every day after my go-to starter "Trace" won me a 1 line win but left me with no starter
+it's old but still functional so i placed it into my project untouched in the WordleStarterChecker package so i can have all my code together for myself and any future projects
+
+I didn't have any serious challenges other than the learning curve for reading and writing regex's and starting to learn the java.util.regex package
+it did take me longer than i expected due to learn regex but after i finished q1-4 in the RegexMethods class i was ready to tackle RegExWordle
+a lot of time went into planning out my use of the enum and the required wordleMatches() method which idk exactly how recommended my enum approach was but i had fun figuring it all out at least
+i did pivot towards the end of my development towards a single encapsulated character class approach for all grays which did make me change the enum layout a bit so i didnt have multiple negative lookaheads for grays and appended just one lookahead
+but i think everything worked out neat enough with the static approach, if i made any major design mistakes i guess lmk
+
+my tests kinda start in a simpler style and shift to more complex one as they go because i ended up adding a bunch of things i found lacking while testing so it was lite version of seeing the pros TDD i guess
+at the end of the day though i still think i conformed to our AAA approach close enough
+
+i would've gotten this in earlier had i not started devolping the othello homework first, i didnt realize they had different due dates until it was a bit too close, but i put in the work to get this done and i will keep putting in the work until i get the rest of my HW's handed in before the final
+
+ps i do feel like i should mention that i used chatgpt to help me scrape NYT as a learning excersize for what i will be doing in my next HW project for web scraping, but in that assignment ill get my hands dirty and handle all the details myself
